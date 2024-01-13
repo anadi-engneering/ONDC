@@ -8,7 +8,8 @@ Video :- https://www.youtube.com/live/4LNHZo-k6iU?si=-wpgV-WcQrX8LvC2
 
 - Official website :- https://www.ondc.org/
 
-### Challenges with current e-commerce paradigm
+## Challenges with current e-commerce paradigm
+
 E-Commerce domain has been dominated by few players across the world. This led to Morkal Concentration, Digital Monopolies & Economic Information Dissymen
 
 - High entry barriers for new players
