@@ -44,3 +44,5 @@ Source: Conversation with Bing, 13/1/2024
 # How to Join 
 https://www.ondc.org/ondc-how-to-join/
 
+## Google Cloud Skill Boost 
+https://www.cloudskillsboost.google/paths
