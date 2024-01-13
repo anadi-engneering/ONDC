@@ -1,4 +1,6 @@
-- Video :- https://www.youtube.com/live/4LNHZo-k6iU?si=-wpgV-WcQrX8LvC2
+## Introduction of ONDC 
+
+Video :- https://www.youtube.com/live/4LNHZo-k6iU?si=-wpgV-WcQrX8LvC2
 
 - Speakers :-
   - Nitin Mishra :- https://www.linkedin.com/in/nitin-mishra-iimk/
@@ -27,6 +29,7 @@ Source: Conversation with Bing, 13/1/2024
 - Async https APIs used to communicate over the Open Network
 
 ### Opportunities in Tech for startups
+
 - Adaptors and SDKs]
 - Native indic language
 - certification
