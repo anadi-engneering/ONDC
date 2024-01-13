@@ -4,7 +4,7 @@
   - Nitin Mishra :- https://www.linkedin.com/in/nitin-mishra-iimk/
   - Usha Regararaju :- https://www.linkedin.com/in/usha-rengaraju-b570b7a2/
 
-Official website :- https://www.ondc.org/
+- Official website :- https://www.ondc.org/
 
 ### Challenges with current e-commerce paradigm
 E-Commerce domain has been dominated by few players across the world. This led to Morkal Concentration, Digital Monopolies & Economic Information Dissymen
